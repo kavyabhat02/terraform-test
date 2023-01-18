@@ -1,6 +1,5 @@
 provider "google" {
   project     = "nitk-automigration"
-  credentials = file("./auth/nitk-automigration-920591eaecb6.json")
 }
 
 
